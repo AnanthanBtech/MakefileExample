@@ -1,5 +1,5 @@
 # MakefileExample
-Example C++ project with different make file
+Example C / C++ project with different make file used MinGW
 
 # Download file MinGW
 https://sourceforge.net/projects/mingw/files/
